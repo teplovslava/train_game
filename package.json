@@ -1,0 +1,16 @@
+{
+  "name": "game-train",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "homepage": "https://teplovslava.github.io/train_game",
+  "scripts": {
+    "deploy":""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
